@@ -1,5 +1,7 @@
 # OSINT_Polis_Ricerca_Semantica
- Polis Open Learning OSINT
+ Polis Open Learning Ricerca e analisi da fonti aperte
+
+Ricerca semantica e tecniche di confronto multilingue sui motori di ricerca
 
 Download Python 3.8 
 https://www.python.org/downloads/
